@@ -395,13 +395,13 @@ body {
   align-items: flex-start;
   background-image: url(img/banner/b17.jpg);
   min-width: 540px;
-  height: 50vh;
+  height: 40vh;
   background-size: cover;
   background-position: center;
   padding: 30px;
   box-sizing: border-box;
   color: white;
-  justify-content: space-between;
+  /* justify-content: space-between; */
 
 
 }
@@ -411,8 +411,17 @@ body {
 #sm-banner h4 {
 
   color: #fff;
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 300;
+
+
+}
+
+#sm-banner h2 {
+
+  color: #fff;
+  font-size: 28px;
+  font-weight: 800;
 
 
 }
