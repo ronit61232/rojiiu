@@ -680,16 +680,12 @@ footer .copyright {
   }
 
 
-  #navbar  .active{
-    right: 0px;
-  }
-
-  #navbar li {
+   #navbar li {
 
     margin-bottom: 25px;
   }
 
-  #mobile{
+  /* #mobile{
     display: flex;
     align-items: center;
   }
@@ -699,5 +695,5 @@ footer .copyright {
     color: #1a1a1a;
     font-size: 24px;
     padding-left: 20px;
-  }
+  }  */
 }
