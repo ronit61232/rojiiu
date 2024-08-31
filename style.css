@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
+
+/* body {
+  overflow-x: hidden;
+} */
+
 * {
   margin: 0;
   padding: 0;
@@ -663,6 +668,28 @@ footer .copyright {
   text-align: center;
 }
 
+#page-header{
+
+  background-image: url("img/banner/b1.jpg");
+  width: 100%;
+  height: 40vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  padding: 14px;
+
+
+}
+
+
+#page-header h2,
+#page-header p{
+
+  color: #fff;
+
+}
 
 
 /* media query */
@@ -814,10 +841,11 @@ footer .copyright {
       padding: 0 20px;
       background-position: 55%;
     }
-#feature{
 
-  justify-content: space-between;
-}
+    #feature {
+
+      justify-content: space-between;
+    }
 
 
     #feature .fe-box {
@@ -825,40 +853,40 @@ footer .copyright {
       width: 155px;
     }
 
-    #product .pro{
+    #product .pro {
       width: 100%;
     }
 
-    #banner{
+    #banner {
       height: 40vh;
     }
 
-    #sm-banner .banner-box{
+    #sm-banner .banner-box {
       height: 40vh;
     }
 
-    #sm-banner .banner-box2{
-      margin-top:20px ;
+    #sm-banner .banner-box2 {
+      margin-top: 20px;
     }
 
-    #banner3{
+    #banner3 {
       padding: 0 20px;
     }
 
-    #banner3  .banner-box{
+    #banner3 .banner-box {
       width: 100%;
     }
 
-    #newsletter{
+    #newsletter {
       padding: 40px 20px;
     }
 
-    #newsletter .form{
+    #newsletter .form {
       width: 100%;
     }
 
 
-    footer .copyright{
+    footer .copyright {
       text-align: start;
     }
 
