@@ -797,10 +797,22 @@ font-size: 26px;
 }
 
 
+#prodetails    .single-pro-details:focus{
+
+  outline: none;
+
+}
+
+
 #prodetails    .single-pro-details button{
 
   background: #088178;
   color: #fff;
+}
+
+#prodetails    .single-pro-details span{
+
+  line-height: 25px;
 }
 
 /* media query */
