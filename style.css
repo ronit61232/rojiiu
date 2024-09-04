@@ -901,7 +901,7 @@ footer .copyright {
 
 
 #blog .blog-box h1{
-  position:absolute;
+  position:absolute ;
   top: -40px;
   left: 0;
   font-size: 70px;
@@ -1136,5 +1136,9 @@ footer .copyright {
 
   }
 
+
+  /* blog page */
+
+  
 
 }
