@@ -966,6 +966,13 @@ footer .copyright {
   border-radius: 20px;
 }
 
+
+/* contact page */
+
+#contact-details{
+  
+}
+
 /* media query */
 
 @media(max-width:799px) {
