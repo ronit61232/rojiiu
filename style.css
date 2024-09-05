@@ -1665,6 +1665,26 @@ cart page */
 
 
 
+  #cart-add{
+    flex-direction: column;
+  }
+
+
+  #coupn{
+    width: 100%;
+  }
+
+
+
+  #subtotal{
+    width: 100%;
+    padding: 20px;
+  }
+
+
+
+
+
 
 
 }
